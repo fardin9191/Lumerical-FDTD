@@ -32,6 +32,7 @@ This repository contains simulation codes and scripts developed during my underg
   * Post-processed results for absorption spectra, resonance frequency shifts, and sensitivity evaluation.
 
 
+Note::::
 
 The repository contains **partial code** recovered from my personal drive. A significant portion of the work (structural iterations, advanced parametric studies, and additional simulation files) was conducted on my university’s server.
 
