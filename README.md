@@ -25,14 +25,13 @@ This repository contains simulation codes and scripts developed during my underg
  
  **Introduction of Pesticide Layer (Target Analyte)**
  Simulated the effect of trace pesticide residues in wheat flour by introducing a thin analyte layer on top of the metastructure. Used the Maxwell–Garnett effective medium model to represent the pesticide–flour mixture’s dielectric properties.
- 
 
 * **Data Handling & Post-Processing**
 
   * Post-processed results for absorption spectra, resonance frequency shifts, and sensitivity evaluation.
 
 
-Note::::
+**Note::::**
 
 The repository contains **partial code** recovered from my personal drive. A significant portion of the work (structural iterations, advanced parametric studies, and additional simulation files) was conducted on my university’s server.
 
