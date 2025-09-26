@@ -5,7 +5,7 @@
 
 This repository contains simulation codes and scripts developed during my undergraduate thesis, **“High Sensitivity Terahertz Metamaterial Sensor for Trace Pesticide Detection.”** The project focused on the design, simulation, and optimization of a metamaterial-based sensor in the **THz frequency region** using **Lumerical FDTD**.
 
-#### 🔹 Key Features of the Work
+####  Key Features of the Work
 
 * **Initial DRU Metastructure Design**
 
@@ -31,7 +31,7 @@ This repository contains simulation codes and scripts developed during my underg
   * Post-processed results for absorption spectra, resonance frequency shifts, and sensitivity evaluation.
 
 
-**Note::::**
+**Note!!!!!!**
 
 The repository contains **partial code** recovered from my personal drive. A significant portion of the work (structural iterations, advanced parametric studies, and additional simulation files) was conducted on my university’s server.
 
